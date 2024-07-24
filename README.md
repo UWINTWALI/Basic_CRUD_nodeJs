@@ -11,8 +11,8 @@ This project demonstrates how to create a basic CRUD (Create, Read, Update, Dele
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/basic-crud-node-mysql.git
-   cd basic-crud-node-mysql
+   git clone https://github.com/yourusername/Basic_CRUD_nodeJs.git 
+   cd Basic_CRUD_nodeJs
    ```
 
 2. Install dependencies:
